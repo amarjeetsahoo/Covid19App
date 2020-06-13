@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="No Notification"
+        android:id="@+id/notification">
+    </item>
+    <item
+        android:id="@+id/abtdev"
+        android:title="About Developer">
+    </item>
+
+</menu>
